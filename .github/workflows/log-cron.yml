@@ -1,4 +1,4 @@
-name: Log Time Job
+name: My Time Job
 on:
   schedule:
     - cron: "*/5 * * * *" # Runs every 5 minutes
